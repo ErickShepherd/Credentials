@@ -7,69 +7,114 @@ Table of Contents
 =================
 
 .. contents:: **Contents**
+|
 
 =============
 C Certificate
 =============
 
-.. image:: /SoloLearn/png/C.png
+:Course Name: C Tutorial
+:Date of Issuance: 2020-05-23
+:Certificate ID: #1089-2865865
+
+.. image:: /Certificates/SoloLearn/png/C.png
+|
 
 ===============
 C++ Certificate
 ===============
 
-.. image:: /SoloLearn/png/C++.png
+:Course Name: C++ Tutorial
+:Date of Issuance: 2017-03-23
+:Certificate ID: #1051-2865865
+
+.. image:: /Certificates/SoloLearn/png/C++.png
+|
 
 ===============
 CSS Certificate
 ===============
 
-.. image:: /SoloLearn/png/CSS.png
+:Course Name: CSS Fundamentals
+:Date of Issuance: 2016-11-22
+:Certificate ID: #1023-2865865
+
+.. image:: /Certificates/SoloLearn/png/CSS.png
+|
 
 ====================================
 Data Science with Python Certificate
 ====================================
 
-.. image:: /SoloLearn/png/Data%20Science%20with%20Python.png
+:Course Name: Data Science with Python
+:Date of Issuance: 2020-05-25
+:Certificate ID: #1093-2865865
+
+.. image:: /Certificates/SoloLearn/png/Data%20Science%20with%20Python.png
+|
 
 ================
 HTML Certificate
 ================
 
-.. image:: /SoloLearn/png/HTML.png
+:Course Name: HTML Fundamentals
+:Date of Issuance: 2016-11-22
+:Certificate ID: #1014-2865865
+
+.. image:: /Certificates/SoloLearn/png/HTML.png
+|
 
 ================
 Java Certificate
 ================
 
-.. image:: /SoloLearn/png/Java.png
+:Course Name: Java Tutorial
+:Date of Issuance: 2016-11-22
+:Certificate ID: #1068-2865865
+
+.. image:: /Certificates/SoloLearn/png/Java.png
+|
 
 ======================
 JavaScript Certificate
 ======================
 
-.. image:: /SoloLearn/png/JavaScript.png
+:Course Name: JavaScript Tutorial
+:Date of Issuance: 2016-11-22
+:Certificate ID: #1024-2865865
+
+.. image:: /Certificates/SoloLearn/png/JavaScript.png
+|
 
 ===============
 PHP Certificate
 ===============
 
-.. image:: /SoloLearn/png/PHP.png
+:Course Name: PHP Tutorial
+:Date of Issuance: 2016-11-22
+:Certificate ID: #1059-2865865
+
+.. image:: /Certificates/SoloLearn/png/PHP.png
+|
 
 ====================
 Python 3 Certificate
 ====================
 
-.. image:: /SoloLearn/png/Python%203.png
+:Course Name: Python 3 Tutorial
+:Date of Issuance: 2017-03-23
+:Certificate ID: #1073-2865865
+
+.. image:: /Certificates/SoloLearn/png/Python%203.png
+|
 
 ================
 Ruby Certificate
 ================
 
-.. image:: /SoloLearn/png/Ruby.png
+:Course Name: Ruby Tutorial
+:Date of Issuance: 2020-05-20
+:Certificate ID: #1081-2865865
 
-===============
-PHP Certificate
-===============
-
-.. image:: /SoloLearn/png/PHP.png
+.. image:: /Certificates/SoloLearn/png/Ruby.png
+|
