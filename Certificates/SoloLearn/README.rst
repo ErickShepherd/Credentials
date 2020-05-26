@@ -9,6 +9,7 @@ Table of Contents
 .. contents:: **Contents**
 |
 
+
 =============
 C Certificate
 =============
@@ -19,6 +20,7 @@ C Certificate
 
 .. image:: /Certificates/SoloLearn/png/C.png
 |
+
 
 ===============
 C++ Certificate
@@ -31,6 +33,7 @@ C++ Certificate
 .. image:: /Certificates/SoloLearn/png/C++.png
 |
 
+
 ===============
 CSS Certificate
 ===============
@@ -41,6 +44,7 @@ CSS Certificate
 
 .. image:: /Certificates/SoloLearn/png/CSS.png
 |
+
 
 ====================================
 Data Science with Python Certificate
@@ -53,6 +57,7 @@ Data Science with Python Certificate
 .. image:: /Certificates/SoloLearn/png/Data%20Science%20with%20Python.png
 |
 
+
 ================
 HTML Certificate
 ================
@@ -63,6 +68,7 @@ HTML Certificate
 
 .. image:: /Certificates/SoloLearn/png/HTML.png
 |
+
 
 ================
 Java Certificate
@@ -75,6 +81,7 @@ Java Certificate
 .. image:: /Certificates/SoloLearn/png/Java.png
 |
 
+
 ======================
 JavaScript Certificate
 ======================
@@ -85,6 +92,7 @@ JavaScript Certificate
 
 .. image:: /Certificates/SoloLearn/png/JavaScript.png
 |
+
 
 ===============
 PHP Certificate
@@ -97,6 +105,7 @@ PHP Certificate
 .. image:: /Certificates/SoloLearn/png/PHP.png
 |
 
+
 ====================
 Python 3 Certificate
 ====================
@@ -107,6 +116,7 @@ Python 3 Certificate
 
 .. image:: /Certificates/SoloLearn/png/Python%203.png
 |
+
 
 ================
 Ruby Certificate
