@@ -7,7 +7,7 @@ Credentials
 ===============================
 
 `SoloLearn </Certificates/SoloLearn>`_
--------------------------
+--------------------------------------
 
 - `C </Certificates/SoloLearn/pdf/C.pdf>`_
 - `C++ </Certificates/SoloLearn/pdf/C++.pdf>`_
