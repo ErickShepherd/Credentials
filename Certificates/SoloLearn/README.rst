@@ -2,6 +2,8 @@
 SoloLearn Certificates
 **********************
 
+Certificates earned by `Erick Shepherd <https://www.sololearn.com/Profile/2865865>`_ from `SoloLearn <https://www.sololearn.com>`_.
+
 =================
 Table of Contents
 =================
