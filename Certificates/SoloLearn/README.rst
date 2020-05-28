@@ -9,6 +9,7 @@ Table of Contents
 =================
 
 .. contents:: **Contents**
+ :numbered:
 |
 
 
