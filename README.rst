@@ -9,14 +9,15 @@ Credentials
 `SoloLearn </Certificates/SoloLearn>`_
 --------------------------------------
 
-- `C </Certificates/SoloLearn/pdf/C.pdf>`_
-- `C++ </Certificates/SoloLearn/pdf/C++.pdf>`_
-- `CSS </Certificates/SoloLearn/pdf/CSS.pdf>`_
-- `Data Science with Python </Certificates/SoloLearn/pdf/Data%20Science%20with%20Python.pdf>`_
-- `HTML </Certificates/SoloLearn/pdf/HTML.pdf>`_
-- `Java </Certificates/SoloLearn/pdf/Java.pdf>`_
-- `JavaScript </Certificates/SoloLearn/pdf/JavaScript.pdf>`_
-- `PHP </Certificates/SoloLearn/pdf/PHP.pdf>`_
-- `Python 3 </Certificates/SoloLearn/pdf/Python%203.pdf>`_
-- `Ruby </Certificates/SoloLearn/pdf/Ruby.pdf>`_
-- `SQL </Certificates/SoloLearn/pdf/SQL.pdf>`_
+1. `C </Certificates/SoloLearn/pdf/C.pdf>`_
+2. `C++ </Certificates/SoloLearn/pdf/C++.pdf>`_
+3. `CSS </Certificates/SoloLearn/pdf/CSS.pdf>`_
+4. `Data Science with Python </Certificates/SoloLearn/pdf/Data%20Science%20with%20Python.pdf>`_
+5. `HTML </Certificates/SoloLearn/pdf/HTML.pdf>`_
+6. `Java </Certificates/SoloLearn/pdf/Java.pdf>`_
+7. `JavaScript </Certificates/SoloLearn/pdf/JavaScript.pdf>`_
+8. `Machine Learning </Certificates/SoloLearn/pdf/Machine%20Learning.pdf>`_
+9. `PHP </Certificates/SoloLearn/pdf/PHP.pdf>`_
+10. `Python 3 </Certificates/SoloLearn/pdf/Python%203.pdf>`_
+11. `Ruby </Certificates/SoloLearn/pdf/Ruby.pdf>`_
+12. `SQL </Certificates/SoloLearn/pdf/SQL.pdf>`_

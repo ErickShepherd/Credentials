@@ -94,6 +94,18 @@ JavaScript Certificate
 |
 
 
+============================
+Machine Learning Certificate
+============================
+
+:Course Name: Machine Learning
+:Date of Issuance: 2020-05-28
+:Certificate ID: #1094-2865865
+
+.. image:: /Certificates/SoloLearn/png/Machine%20Learning.png
+|
+
+
 ===============
 PHP Certificate
 ===============
